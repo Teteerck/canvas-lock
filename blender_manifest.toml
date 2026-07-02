@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "canvas_lock"
+version = "1.0.0"
+name = "Canvas Lock"
+tagline = "Aspect ratio lock and orientation swap for render resolution"
+maintainer = "Ricardo Rey (Teteerck)"
+type = "add-on"
+
+website = "https://teteerck.lemonsqueezy.com/"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+tags = ["Render"]
